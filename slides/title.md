@@ -1,5 +1,6 @@
 
 # `Building Command-Line Apps`
 
-Julien Vanier [@monkbroc](https://twitter.com/monkbroc)
+Julien Vanier
 
+[julienvanier.com/ruby-cli](http://julienvanier.com/ruby-cli)
