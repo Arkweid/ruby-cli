@@ -1,0 +1,11 @@
+{
+  "generator-reveal": {
+    "presentationTitle": "Building Command-Line Apps",
+    "packageVersion": "0.0.0",
+    "revealTheme": "black",
+    "useSass": false,
+    "deployToGithubPages": true,
+    "githubUsername": "monkbroc",
+    "githubRepository": "ruby-cli-presentation"
+  }
+}
