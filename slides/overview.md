@@ -8,5 +8,3 @@
 - Traveling Ruby <!-- .element: class="fragment" -->
 - Bonus: Go wrapper <!-- .element: class="fragment" -->
 
-[julienvanier.com/ruby-cli](http://julienvanier.com/ruby-cli)
-<!-- .element: class="fragment" -->
