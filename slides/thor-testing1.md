@@ -3,9 +3,10 @@
 ```
 class CLI < Thor
   COMMANDS = {
+    configure: Commands::Configure,
     color: Commands::Color,
   }
-  attr_reader :commands
+  attr_reader :commands # set to COMMANDS in initialize
 
   desc "color COLOR", "Turn on lights this color"
   def color(name)

@@ -9,7 +9,7 @@ Feature: Configure Command
     And I type "test@gmail.com"
     And I type "password"
     And I type ""
-    Then the output should contain "You are all set"
+    Then the output should contain "All set!"
     And the file "~/.button-cli.yaml" should contain "access_token"
     And the file "~/.button-cli.yaml" should contain "device"
 ```

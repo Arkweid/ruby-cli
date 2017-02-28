@@ -8,7 +8,7 @@
     "overview-5.md",
     "overview-last.md",
     "topics.md",
-    "demo-intro.md",
+    "demo.md",
     [
         "thor.md",
         "thor-intro.md",
@@ -22,11 +22,11 @@
     [
         "command-intro.md",
         "command-what.md",
+        "command-base.md",
         "command-ui.md",
         "ui.md",
         "command-ui2.md",
         "command-color.md",
-        "command-base.md",
         "command-color-code1.md",
         "command-color-test1.md",
         "command-color-code2.md",
@@ -38,6 +38,7 @@
         "aruba-example.md",
         "aruba-capabilities.md",
         "aruba-example2.md",
+        "aruba-example3.md",
         "vcr-pre.md",
         "vcr.md"
     ],

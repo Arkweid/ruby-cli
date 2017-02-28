@@ -1,3 +1,4 @@
-- Self-contained Ruby binaries
-- Supports gems
-- Rake script to create tarballs for all platforms
+- Create tarballs for all platforms <!-- .element: class="fragment" -->
+- Self-contained Ruby binaries <!-- .element: class="fragment" -->
+- Supports gems <!-- .element: class="fragment" -->
+- Rake script to do the packaging <!-- .element: class="fragment" -->

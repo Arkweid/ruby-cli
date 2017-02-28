@@ -6,5 +6,6 @@
 * `lib/vendor/Gemfile`: My Gemfile
 * `lib/vendor/ruby`: My gems
 * `button`: executable wrapper script
+* 7 MB download
 
 ![Linux](resources/traveling-ruby-linux.png)

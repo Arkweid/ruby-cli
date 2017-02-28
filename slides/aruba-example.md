@@ -1,4 +1,4 @@
-Run tests with `cucumber`
+### Run tests with `cucumber`
 
 ```
 Feature: CLI
