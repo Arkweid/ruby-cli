@@ -1,0 +1,3 @@
+- Self-contained Ruby binaries
+- Supports gems
+- Rake script to create tarballs for all platforms
