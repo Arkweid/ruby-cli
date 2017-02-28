@@ -1,11 +1,36 @@
 [
     "title.md",
     "speaker.md",
-    "overview.md",
+    "overview-1.md",
+    "overview-2.md",
+    "overview-3.md",
+    "overview-4.md",
+    "overview-5.md",
+    "overview-last.md",
+    "topics.md",
+    "demo-intro.md",
     [
         "thor.md",
         "thor-intro.md",
-        "thor-login.md"
+        "thor-simple.md",
+        "thor-run.md",
+        "thor-help.md",
+        "thor-architecture.md",
+        "thor-testing1.md",
+        "thor-testing2.md"
+    ],
+    [
+        "command-intro.md",
+        "command-what.md",
+        "command-ui.md",
+        "ui.md",
+        "command-ui2.md",
+        "command-color.md",
+        "command-base.md",
+        "command-color-code1.md",
+        "command-color-test1.md",
+        "command-color-code2.md",
+        "command-color-test2.md"
     ],
     "thanks.md"
 ]
