@@ -32,5 +32,20 @@
         "command-color-code2.md",
         "command-color-test2.md"
     ],
+    [
+        "aruba.md",
+        "aruba-intro.md",
+        "aruba-example.md",
+        "aruba-capabilities.md",
+        "aruba-example2.md",
+        "vcr-pre.md",
+        "vcr.md"
+    ],
+    [
+        "traveling.md",
+        "traveling-tagline.md",
+        "traveling-overview.md",
+        "traveling-linux.md"
+    ],
     "thanks.md"
 ]
